@@ -1,13 +1,10 @@
-<!-- Banner / Header -->
-<h1 align="center">👨‍💻 Christofer Roberto</h1>
 <p align="center">
-  💻 Estudante de ADS (SENAI) • 🪖 Ex-militar • 🛠️ Técnico em Informática  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5f34,100:081c15&height=180&section=header&text=👨‍💻Christofer%20Roberto&fontSize=35&fontColor=ffffff"/>
 </p>
 
+<!-- SUBTÍTULO -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/christoferroberto">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=22&center=true&vCenter=true&width=600&lines=Estudante+de+ADS+(SENAI);Ex-militar+em+transição+para+TI;Futuro+Desenvolvedor+Backend"/>
 </p>
 
 ---
