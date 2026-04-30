@@ -1,6 +1,9 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5f34,100:081c15&height=180&section=header&text=👨‍💻Christofer%20Roberto&fontSize=35&fontColor=ffffff"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0:081c15,100:1b4332&section=header"/>
+
+
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ffffff&width=900&size=30&center=true&vCenter=true&lines=+Christofer+Roberto" alt="Typing SVG"/>
+</div>
 
 <!-- SUBTÍTULO -->
 <p align="center">
@@ -86,3 +89,11 @@ Minha experiência no Exército desenvolveu disciplina, organização e capacida
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=22&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Em+evolução+na+área+de+TI;Futuro+Desenvolvedor+Backend" />
 </p>
+
+<div align="center">
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=christoferroberto&style=flat-square&color=2C5F34" /></p> 
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0:1b4332,100:2d6a4f&section=footer"/>
