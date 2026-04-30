@@ -79,5 +79,5 @@ Minha experiência no Exército desenvolveu disciplina, organização e capacida
 
 <!-- Animação -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=22&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Em+evolução+na+área+de+TI;Futuro+Desenvolvedor+Backend" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=22&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Em+evolução+na+área+de+TI;Futuro+Desenvolvedor+Backend" />
 </p>
