@@ -64,11 +64,16 @@ Busco minha primeira oportunidade na área de TI, com foco em desenvolvimento e 
 ---
 
 ## 📫 Contato
+
 <p>
   <a href="https://www.linkedin.com/in/christoferroberto">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-</p>
+  
+  <a href="https://instagram.com/christofer_dev">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p> 
 
 ---
 
